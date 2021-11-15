@@ -1,0 +1,87 @@
+.editChargePaymentBlock {
+  background-color: #ededed;
+  padding: 2.5% 2% 1.5% 2%;
+  margin: 1% 1% 1% 0%;
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+}
+
+.editChargePaymentContainer {
+  padding: 1rem 3rem 1rem 3rem;
+  margin: 0 0 0 4rem;
+  background-color: #46b2e0;
+  border-radius: 0.4rem;
+  width: 60%;
+}
+
+.previousPaidTotalContainer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+
+  margin: 1rem 0rem 1rem 0rem;
+}
+
+.changesPenaltyConatiner {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+
+  margin: 1rem 0rem 1rem 0rem;
+}
+
+.inputChangeCharges {
+  width: 45%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1rem;
+  margin: 0 0 0 55%;
+}
+
+.inputChangeCharges.inputActive {
+  border-color: green;
+}
+
+.changesProcessingFeeConatiner {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+
+  margin: 1rem 0rem 1rem 0rem;
+}
+
+.changesTotalConatiner {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+  margin: 1rem 0rem 1rem 0rem;
+}
+
+.amountPayableConatiner {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.2rem;
+  margin: 1rem 0rem 1rem 0rem;
+  background-color: aliceblue;
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+}
+.inputPrevAmt {
+  width: 45%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1rem;
+  margin: 0 0 0 55%;
+}
+
+.inputPrevAmt.inputActive {
+  border-color: green;
+}

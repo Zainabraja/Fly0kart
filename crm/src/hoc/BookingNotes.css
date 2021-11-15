@@ -1,0 +1,63 @@
+.bookingNotesWrapper {
+}
+
+.bookingNotesWrapper {
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  position: fixed;
+  height: 25rem;
+  width: 35rem;
+  left: 18rem;
+  top: 16rem;
+}
+
+.bookingNotesWrapper:after {
+  content: " ";
+  position: absolute;
+  left: -15px;
+  top: 245px;
+  border-top: none;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 15px solid #ffff;
+}
+
+.closeNotesContainer {
+  align-content: right;
+  text-align: right;
+}
+
+.fa-times {
+  font-size: 1.2rem;
+  color: black;
+  padding: 1.5% 2% 1% 1%;
+}
+
+.bookingNotesHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.2rem;
+  font-size: 1rem;
+  margin: 0.5rem 0.4rem 0.4rem 0.4rem;
+}
+
+.bookingNotesDetails {
+  height: 12rem;
+  margin: 2% 3% 3% 3%;
+  border: 1px solid black;
+}
+.bookingDetailsHeader {
+  text-align: left;
+  margin: 2%;
+  font-weight: 600;
+}
+
+.bookingDetailsInput {
+  width: 90%;
+  height: 99%;
+  outline: none;
+  border: none;
+}
+.saveNotesContainer {
+  text-align: center;
+}

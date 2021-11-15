@@ -1,0 +1,15 @@
+.pricePromiseContainer {
+  border-radius: 0.5rem;
+  color: rgb(31, 179, 31);
+  width: 90%;
+  margin: 0.2% 0 2% 1%;
+  padding: 0.5rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+@media screen and (max-width: 420px) {
+  .pricePromiseContainer {
+    font-size: 0.6rem;
+    width: 99%;
+  }
+}

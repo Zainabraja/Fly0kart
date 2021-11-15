@@ -1,0 +1,16 @@
+.adminHomeWrapper {
+  width: 100%;
+  display: flex;
+}
+
+.adminInfoWrapper {
+  width: 20%;
+  padding: 0 0.8% 0.8% 0.8%;
+  position: fixed;
+}
+
+.BookingsInfoWrapper {
+  width: 70%;
+  padding: 0 0.8% 0.8% 0.8%;
+  margin: 0 0 0 28%;
+}

@@ -1,0 +1,47 @@
+.BookingsInfoContainer {
+  width: 100%;
+  height: max-content;
+}
+
+.serachBookingsBlock {
+  margin: 10% 0 0 0;
+  height: max-content;
+}
+.searchBookingsHeader {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+.serachCriteriaContainer {
+  display: flex;
+  justify-content: space-around;
+  margin: 6% 0% 0% 0%;
+  width: 45rem;
+}
+
+.searchCriteriaInputContainer {
+  width: 100%;
+  height: 2.5rem;
+  align-items: center;
+}
+
+.searchByInputField {
+  width: 85%;
+  height: 90%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  font-size: 1rem;
+}
+
+.searchCriteriaButtonContainer {
+  width: 30rem;
+  height: 2.5rem;
+  align-items: center;
+  padding: 0.5% 0 0 0;
+  margin: 19% 0 0 0;
+}
+
+.searchActionWrapper {
+  display: flex;
+}

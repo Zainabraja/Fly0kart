@@ -1,0 +1,26 @@
+/******************************DEFAULT**************************************************/
+.customButton {
+  color: black;
+  cursor: pointer;
+  border: 0;
+  border-radius: 6px;
+  text-decoration: none;
+  background-color: #46b2e0;
+  transition: background-color 600ms ease;
+  font-weight: 600;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 2px 2px rgba(0, 0, 0, 0.12),
+    0 4px 4px rgba(0, 0, 0, 0.12), 0 6px 6px rgba(0, 0, 0, 0.12);
+  position: relative;
+  text-align: center;
+  width: max-content;
+}
+
+.customButton:hover {
+  background-color: #91d1ec;
+}
+.SubLabelContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+/*-------------------------------Media_Queries---------------------------------*/

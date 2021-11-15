@@ -1,0 +1,189 @@
+/* @-----------------------------itineray-----------------------------@ */
+
+.bookingItineraryWrapper {
+  background-color: #ededed;
+  padding: 2.5% 2% 1.5% 2%;
+  margin: 1% 1% 1% 0%;
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+}
+
+.bookingItineraryContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.itineraybox {
+  background-color: #46b2e0;
+  width: 25%;
+  padding: 1%;
+  border-radius: 0.4rem;
+  text-align: center;
+  margin: 3% 0 4% 0;
+}
+
+.itinerayTakeoffDate {
+  font-size: 1.2rem;
+  margin: 0.8rem 0.1rem 0.8rem 0.1rem;
+}
+.itinerayTakeoffTime {
+  font-size: 1.1rem;
+  margin: 0.8rem 0.1rem 0.8rem 0.1rem;
+}
+
+.itinerayTakeoffFrom {
+  font-size: 1.1rem;
+}
+.cityName {
+  font-size: 0.9rem;
+}
+.itineraystrip {
+  width: 28%;
+  text-align: center;
+}
+
+.itineraryTravelTime {
+  background-color: #46b2e0;
+  padding: 1.2%;
+  margin: 2% 2% 8% 2%;
+  border-radius: 0.4rem 30% 0.4rem 30%;
+  font-size: 1.2rem;
+}
+
+.itineraryAirlineInfo {
+  background-color: #46b2e0;
+  margin: 2% 2% 5% 2%;
+  padding: 1.2%;
+  border-radius: 0.4rem 30% 0.4rem 30%;
+  font-size: 1.2rem;
+}
+
+.flightInfoContainer {
+  display: flex;
+  width: 90%;
+  justify-content: space-around;
+  margin: 0 0 0 5%;
+}
+
+.flightNo {
+  font-size: 0.85rem;
+}
+
+.aircraftNo {
+  font-size: 0.85rem;
+}
+
+.itinerayArriveDate {
+  font-size: 1.2rem;
+  margin: 0.8rem 0.1rem 0.8rem 0.1rem;
+}
+.itinerayArriveTime {
+  font-size: 1.1rem;
+  margin: 0.8rem 0.1rem 0.8rem 0.1rem;
+}
+
+.itinerayArriveTo {
+  font-size: 1.1rem;
+}
+.cityName {
+  font-size: 0.9rem;
+}
+
+.itinerayClassPackageContainer {
+  display: flex;
+  margin: 1% 4% 0 4%;
+  justify-content: space-between;
+}
+
+.inputEditBookingDates {
+  width: 60%;
+  height: 90%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.inputEditBookingDates.inputActive {
+  border-color: green;
+}
+
+.inputEditBookingTime {
+  width: 25%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.inputEditBookingTime.inputActive {
+  border-color: green;
+}
+.itineraryLayOver {
+  background-color: #46b2e0;
+  padding: 1.2%;
+  margin: 2% 2% 8% 2%;
+  border-radius: 0.4rem 30% 0.4rem 30%;
+  font-size: 1.2rem;
+}
+.inputEditDepartAirport {
+  width: 25%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.inputEditDepartAirport.inputActive {
+  border-color: green;
+}
+.inputEditDepartCity {
+  width: 50%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0.3rem 0.2rem 0 1rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.inputEditDepartCity.inputActive {
+  border-color: green;
+}
+
+.inputEditArrivalAirport {
+  width: 25%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.inputEditArrivalAirport.inputActive {
+  border-color: green;
+}
+.inputEditArrivalCity {
+  width: 50%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0.3rem 0.2rem 0 1rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.inputEditArivalCity.inputActive {
+  border-color: green;
+}

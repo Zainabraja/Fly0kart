@@ -1,0 +1,226 @@
+[
+    {
+
+        "currency":"USDCAD",
+        "name":"USD-CAD",
+        "symbol":"c$"
+    }
+    ,
+    
+    {
+
+        "currency":"USDGBP",
+        "name":"USD-GBP",
+        "symbol":"£"
+    },
+    
+    {
+
+        "currency":"USDAUD",
+        "name":"USD-AUD",
+        "symbol":"$"
+    },
+     {
+
+        "currency":"USDCHF",
+        "name":"USD-CHF",
+        "symbol":"CHF"
+    },
+    {
+
+        "currency":"USDHKD",
+        "name":"USD-HKD",
+        "symbol":"$"
+    },
+    {
+
+        "currency":"USDJPY",
+        "name":"USD-JPY",
+        "symbol":"¥"
+    }
+    ,
+    {
+
+        "currency":"USDCNY",
+        "name":"USD-CNY",
+        "symbol":"¥"
+    }
+    ,
+    {
+
+        "currency":"USDINR",
+        "name":"USD-INR",
+        "symbol":"₹"
+    }
+    ,
+    {
+
+        "currency":"USDKYD",
+        "name":"USD-KYD",
+        "symbol":"CI$"
+    },
+    {
+
+        "currency":"USDAWG",
+        "name":"USD-AWG",
+        "symbol":"ƒ"
+    },
+    {
+
+        "currency":"USDBBD",
+        "name":"USD-BBD",
+        "symbol":"$"
+    },
+    {
+
+        "currency":"USDDOP",
+        "name":"USD-DOP",
+        "symbol":"RD$"
+    },
+    {
+
+        "currency":"USDHTG",
+        "name":"USD-HTG",
+        "symbol":"G"
+    },
+    {
+
+        "currency":"USDJMD",
+        "name":"USD-JMD",
+        "symbol":"J$"
+    },
+    {
+
+        "currency":"USDTTD",
+        "name":"USD-TTD",
+        "symbol":"TT$"
+    },
+    {
+
+        "currency":"USDDKK",
+        "name":"USD-DKK",
+        "symbol":"KR"
+    },
+    {
+
+        "currency":"USDNOK",
+        "name":"USD-NOK",
+        "symbol":"kr"
+    },
+    {
+
+        "currency":"USDSEK",
+        "name":"USD-SEK",
+        "symbol":"kr"
+    },
+    {
+
+        "currency":"USDHUF",
+        "name":"USD-HUF",
+        "symbol":"FT"
+    },
+    {
+
+        "currency":"USDMKN",
+        "name":"USD-MKN",
+        "symbol":"$"
+    },
+    {
+
+        "currency":"USDSGD",
+        "name":"USD-SGD",
+        "symbol":"$"
+    },
+    {
+
+        "currency":"USDAED",
+        "name":"USD-AED",
+        "symbol":"AED"
+    },
+    {
+
+        "currency":"USDNZD",
+        "name":"USD-NZD",
+        "symbol":"$"
+    },
+    {
+
+        "currency":"USDZAR",
+        "name":"USD-ZAR",
+        "symbol":"R"
+    },
+    {
+
+        "currency":"USDTRY",
+        "name":"USD-TRY",
+        "symbol":"TR"
+    }
+    ,
+    {
+
+        "currency":"USDMRY",
+        "name":"USD-MRY",
+        "symbol":"RM"
+    },
+    {
+
+        "currency":"USDPHP",
+        "name":"USD-PHP",
+        "symbol":"p"
+    },
+    {
+
+        "currency":"USDLKR",
+        "name":"USD-LKR",
+        "symbol":"RS"
+    },
+    {
+
+        "currency":"USDNPR",
+        "name":"USD-NPR",
+        "symbol":"RS"
+    },
+    {
+
+        "currency":"USDBND",
+        "name":"USD-BND",
+        "symbol":"$"
+    },
+    {
+
+        "currency":"USDIDR",
+        "name":"USD-IDR",
+        "symbol":"RP"
+    },
+    {
+
+        "currency":"USDMOP",
+        "name":"USD-MOP",
+        "symbol":"MOP$"
+    },
+    {
+
+        "currency":"USDSAR",
+        "name":"USD-SAR",
+        "symbol":"﷼"
+    },
+    {
+
+        "currency":"USDTHB",
+        "name":"USD-THB",
+        "symbol":"฿"
+    },
+    {
+
+        "currency":"USDKRW",
+        "name":"USD-KRW",
+        "symbol":"₩"
+    },
+    {
+
+        "currency":"USDISK",
+        "name":"USD-ISK",
+        "symbol":"KR"
+    }
+
+]

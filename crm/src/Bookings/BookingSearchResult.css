@@ -1,0 +1,65 @@
+.bookingSearchResultWrapper {
+  width: 100%;
+  display: flex;
+}
+.adminInfoWrapper {
+  position: fixed;
+}
+
+.bookingResultWrapper {
+  width: 80%;
+  padding: 0 0.8% 0.8% 0.8%;
+  margin: 2% 0% 0% 22%;
+}
+/* @-----------------------------Booking quick overview-----------------------------@ */
+.bookingQuickDetailsHeader {
+  background-color: #ffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5% 5% 0.5% 5%;
+  margin: 0% 0% 1% 0%;
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+}
+
+.bookingHeaderIdBlock {
+  font-size: 1.4rem;
+  margin: 1.5% 0 0 0;
+  font-weight: 600;
+}
+.bookingHeaderDateTimeLeftBlock {
+  padding: 0.4%;
+  width: 25%;
+}
+.bookingHeaderDate {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.bookingHeaderTimeLeft {
+  font-size: 1.2rem;
+  font-style: italic;
+  background-color: #afe1af;
+  border-radius: 0.4rem;
+  padding: 0.1rem 0.2rem 0.2rem 0.2rem;
+  text-align: center;
+  color: #40826d;
+  margin: 1%;
+}
+
+.informationHeader {
+  background-color: #46b2e0;
+  width: max-content;
+  font-size: 1.2rem;
+  padding: 0rem 0.4rem 0.2rem 0.4rem;
+  text-align: center;
+  border-radius: 0.4rem;
+  border: 1px dotted black;
+  margin: 2% 0% 0.5% 0%;
+}
+
+.bookingActionsContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 5rem 2rem 5rem;
+}

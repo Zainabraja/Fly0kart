@@ -1,0 +1,41 @@
+.bookingPassengerDetailsWrapper {
+  background-color: #ededed;
+  padding: 2.5% 2% 1.5% 2%;
+  margin: 1% 1% 1% 0%;
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+}
+
+.bookingPassengerDetailsContainer {
+  padding: 1rem 0rem 1rem 3rem;
+  margin: 0 0 0 4rem;
+  background-color: #46b2e0;
+  border-radius: 0.4rem;
+  width: 60%;
+}
+
+.passengerDetailsBlock {
+  font-size: 1.2rem;
+}
+
+.passengerHeader {
+  display: flex;
+  padding: 0.5rem;
+}
+
+.passengerGenderDob {
+  display: flex;
+  padding: 0.5rem;
+}
+.passengerGender {
+  margin: 0 1rem 0 0;
+}
+
+.passengerDivider {
+  font-weight: 600;
+}
+
+.passengerAddressContainer {
+  font-size: 1.2rem;
+  padding: 0.5rem 0 0.5rem 0;
+}

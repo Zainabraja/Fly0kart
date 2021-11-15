@@ -1,0 +1,75 @@
+.loginLogoContainer {
+  background-color: #ffff;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+}
+.logoContainer {
+  width: max-content;
+  display: flex;
+}
+.loginLogoText {
+  margin: 0.5rem;
+  font-weight: 600;
+  font-size: 1.8rem;
+  color: #0d3c6f;
+}
+.logoSvg {
+  width: 4rem;
+  margin: 0.5rem;
+}
+
+.signIn_wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 8rem;
+  height: 25rem;
+}
+.box_wrapper {
+  width: 40%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  padding: 2rem 3rem;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+  color: #757575;
+}
+.signIn_text {
+  font-size: 1.8rem;
+  font-weight: bolder;
+  font-style: italic;
+  color: #0d3c6f;
+}
+.form_wrapper {
+  justify-content: center;
+  height: 12rem;
+  padding: 2rem 1rem 1rem 1rem;
+}
+.logininputfieldwrapper {
+  height: 24%;
+  margin: 1rem 1rem 1.8rem 0.8rem;
+}
+.inputLoginInfo {
+  width: 100%;
+  height: 90%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+}
+.inputLoginInfo.inputActive {
+  border-color: #46b2e0;
+}
+.btn_login {
+  width: 8rem;
+  height: 3rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-weight: 900;
+  background-color: #46b2e0;
+  font-size: larger;
+  margin-top: 1.5rem;
+}
+.adminLoginBtn {
+  text-align: center;
+  margin: 2.5rem 0 0 0;
+}

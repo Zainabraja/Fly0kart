@@ -1,0 +1,149 @@
+.editPassengerDetailsWrapper {
+  background-color: #ededed;
+  padding: 2.5% 2% 1.5% 2%;
+  margin: 1% 1% 1% 0%;
+  border-radius: 0.4rem;
+  box-shadow: 0 2px 3px 1px rgba(0, 0, 0, 0.1);
+}
+
+.editPassengerDetailsContainer {
+  padding: 1rem 0rem 1rem 3rem;
+  margin: 0 0 0 4rem;
+  background-color: #46b2e0;
+  border-radius: 0.4rem;
+  width: 60%;
+}
+
+.passengerDetailsBlock {
+  font-size: 1.2rem;
+}
+
+.passengerHeader {
+  display: flex;
+  padding: 0.5rem;
+}
+
+.passengerGenderDob {
+  display: flex;
+  padding: 0.5rem;
+}
+.passengerGender {
+  margin: 0 1rem 0 0;
+}
+
+.passengerDivider {
+  font-weight: 600;
+}
+
+.passengerAddressContainer {
+  font-size: 1.2rem;
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+.inputPassengerName {
+  width: 65%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0.2rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.inputPassengerName.inputActive {
+  border-color: green;
+}
+.inputPassengerGender {
+  width: 35%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0.2rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.inputPassengerGender.inputActive {
+  border-color: green;
+}
+.inputPassengerDOB {
+  width: 45%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0.2rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.inputPassengerDOB.inputActive {
+  border-color: green;
+}
+
+.inputPassengerGender2 {
+  width: 35%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0.2rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.inputPassengerGender2.inputActive {
+  border-color: green;
+}
+.inputPassengerDOB2 {
+  width: 45%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0.2rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.inputPassengerDOB2.inputActive {
+  border-color: green;
+}
+
+.inputPassengerGender3 {
+  width: 35%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0.2rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.inputPassengerGender3.inputActive {
+  border-color: green;
+}
+.inputPassengerDOB3 {
+  width: 45%;
+  height: 100%;
+  border: 0.1rem solid #ededed;
+  border-radius: 0.4rem;
+  outline: none;
+  text-align: center;
+  margin: 0 0.2rem 0 0.2rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.inputPassengerDOB3.inputActive {
+  border-color: green;
+}
